@@ -1,2 +1,2 @@
 # SocialWebAnalytics_Puchit
-KFC Data for Social Media Web Analytics
+KFC REDDIT Data for Social Media Web Analytics
